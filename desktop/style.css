@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  background-color: #adb5bd;
+  width: 1000px;
+  height: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.menu-main {
+  font-size: 45px;
+  background-color: #868e96;
+  display: flex;
+  gap: 20px;
+  padding: 2px;
+}
+
+.btn {
+  color: #fff;
+}
+
+.btn-add {
+  position: absolute;
+  right: 40px;
+  bottom: 50px;
+  font-size: 60px;
+}
+
+.library {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  overflow-y: auto;
+}
+
+.book {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 150px;
+  height: 200px;
+  border: 1px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
