@@ -8,7 +8,7 @@
 
 As a user, I want to see all my books, so that I can have an overview
 
-As a user, I want to be able to view a book, so I can see more information
+As a user, I want to be able to select a book, so I can see more information
 
 As a user, I want to be able to add a book, so my library reflects the real world
 
