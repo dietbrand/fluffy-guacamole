@@ -1,0 +1,50 @@
+[
+  {
+    "title": "The Fellowship of the Ring",
+    "authors": ["J.R.R. Tolkien", "Peter Jackson"],
+    "publicationYear": 1954,
+    "publisher": "George Allen & Unwin",
+    "pages": 496,
+    "coverURL": "https://kbimages1-a.akamaihd.net/2073651b-c81b-470b-bb89-6ea28c7aa035/1200/1200/False/the-fellowship-of-the-ring-the-lord-of-the-rings-book-1.jpg"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "authors": ["Harper Lee"],
+    "publicationYear": 2015,
+    "publisher": "Random House UK Ltd",
+    "pages": 423,
+    "coverURL": "https://images-na.ssl-images-amazon.com/images/I/51cTCiLMNAL._SX339_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "authors": ["J. D. Salinger"],
+    "publicationYear": 1951,
+    "publisher": "Little, Brown and Company",
+    "pages": 234,
+    "coverURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/774px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg"
+  },
+  {
+    "title": "A Thousand Splendid Suns",
+    "authors": ["Khaled Hosseini"],
+    "publicationYear": 2007,
+    "publisher": "Riverhead Books",
+    "pages": 372,
+    "coverURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655336738i/128029.jpg"
+  },
+  {
+    "title": "The Rise of the Ultra Runners: A Journey to the Edge of Human Endurance",
+    "authors": ["Adharanand Finn"],
+    "publicationYear": 2019,
+    "publisher": "Pegasus Books",
+    "pages": 304,
+    "coverURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1539280529i/41817453.jpg"
+  },
+  {
+    "title": "Transcendent Kingdom",
+    "authors": ["Yaa Gyasi"],
+    "publicationYear": 2020,
+    "publisher": "Knopf",
+    "pages": 264,
+    "coverURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571925550i/48570454.jpg"
+  }
+]

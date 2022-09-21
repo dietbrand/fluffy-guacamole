@@ -2,9 +2,9 @@
 
 ## Basics
 
-- Separate book collection from the main script
-- Add more books to the collection
-- How to read the file?
+- ~~Separate book collection from the main script~~
+- ~~Add more books to the collection~~
+- ~~How to read the file?~~
 
 ## Userstory: As a user, I want to see all my books, so that I can have an overview
 
